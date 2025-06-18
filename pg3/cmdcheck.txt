@@ -1,0 +1,39 @@
+test case for proper one
+1111
+2222
+3333
+4444
+5555
+6666
+7777
+8888
+9999
+AAAA
+
+
+receiver side :
+1111
+2222
+3333
+4444
+5555
+6666
+7777
+8888
+9999
+AAAA
+5555
+
+
+wrong test case
+1111
+2222
+3333
+4444
+5555
+6666   ← change this to 6667 (+1)
+7777   ← change this to 7776 (–1)
+8888
+9999
+AAAA
+

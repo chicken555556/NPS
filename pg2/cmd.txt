@@ -1,0 +1,8 @@
+gcc dvr.c -o dvr
+./dvr
+Enter the no of nodes: 3
+Enter the matrix:
+0 2 7
+2 0 1
+7 1 0
+
